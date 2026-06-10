@@ -1,5 +1,5 @@
 # Hi there, I'm JPTokyo!
-I'm an IT student and aspiring Fullstack/DevOps Engineer from Poland.
+I'm an IT Technician Student and aspiring Fullstack/DevOps Engineer from Poland.
 
 ## Currently focusing on 
   - JavaScript (ES6+) & Web Fundamentals
